@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Famous</string>
+    <string name="btn_name">Add person</string>
+    <string name="person_name">Name and surname: </string>
+    <string name="person_born">Born: </string>
+    <string name="person_death">Died: </string>
+    <string name="person_description">Description: </string>
+    <string name="person_image">Image URL: </string>
+    <string name="save_btn">SAVE</string>
+    <string name="line">-</string>
+</resources>

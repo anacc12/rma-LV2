@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="all_none">0dp</dimen>
+    <dimen name="textSizeLarge">20sp</dimen>
+    <dimen name="textSizeNormal">15sp</dimen>
+    <dimen name="spacingDefault">20dp</dimen>
+    <dimen name="spacingSmall">10dp</dimen>
+    <dimen name="imgWidth">150dp</dimen>
+    <dimen name="imgHeight">150dp</dimen>
+    <dimen name="match_constraint">0dp</dimen>
+</resources>
